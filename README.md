@@ -1,1 +1,1 @@
-# Ashritha-23021578
+This Q-learning algorithm trains an agent to navigate a grid world by updating a Q-table based on state-action-reward dynamics, balancing exploration and exploitation. The performance is visualized through rewards over episodes and optimal Q-values for selected states.
